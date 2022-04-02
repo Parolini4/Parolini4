@@ -22,7 +22,7 @@
 
 
 
-° 🎓 Técnico em <strong>Desenvolvimento de Sistemas</strong> e bacharelando <strong>Ciências da Computação.</strong>
+° 🎓 Técnico em <strong>Desenvolvimento de Sistemas</strong> e bacharelando <strong>Ciência da Computação.</strong>
 
 
 <div>
