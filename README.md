@@ -14,7 +14,7 @@
 
 
 
-° 📚 Aluno no Instituto PROA (ONG educacional).
+° 📚 Aluno no Instituto PROA (ONG educacional) e na Oracle Next Education (ONE).
 
 
 
