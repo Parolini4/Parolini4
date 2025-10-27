@@ -54,8 +54,8 @@ I'm constantly improving my skills in automation, IT solution development, and m
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parolini4/Parolini4/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Parolini4/Parolini4/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
 
@@ -63,8 +63,8 @@ I'm constantly improving my skills in automation, IT solution development, and m
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayasrl/mayasrl/output/pacman-contribution-graph-dark.svg">
-    <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parolini4/Parolini4/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/Parolini4/mParolini4/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
   </picture>
 </div>
 
