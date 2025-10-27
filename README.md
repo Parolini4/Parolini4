@@ -2,25 +2,13 @@
 
 
 
-## Me chamo João Vitor Parolini, estudante e entusiasta da tecnologia!
+## Me chamo João Vitor Parolini, apaixonado por Segurança da Informação, Hardware Hacking e Redes!
 
+° 📚  Estudando sobre <strong>Python para automação e criação de scripts/strong>, <strong>C</strong> e <strong>Assembly para engenharia reversa</strong>.
 
-° 📚  Estudando sobre <strong>HTML5</strong>, <strong>CSS3</strong> e <strong>Javascript</strong>, conhecimentos básicos em <strong><i>PHP</i></strong>, <strong><i>React Native</i></strong>, <strong><i>Python</i></strong>,
-<strong><i>C#</i></strong> e <strong><i>C++</i></strong>.
+° 💖 Apaixonado por jogos e em ajudar a melhorar a segurança digital
 
-
-
-° 💖 Apaixonado por jogos e em ajudar a melhorar a vida das pessoas.
-
-
-
-° 📚 Aluno no Instituto PROA (ONG educacional) e na Oracle Next Education (ONE).
-
-
-
-° 🚀 Realizando meu sonho de trabalhar com T.I. a cada dia.
-
-
+° 🚀 Realizando meu sonho de trabalhar com segurança a cada dia.
 
 ° 🎓 Técnico em <strong>Desenvolvimento de Sistemas</strong> e bacharelando <strong>Ciência da Computação.</strong>
 
